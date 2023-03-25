@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# ControLovers💛<img src="https://icon-library.com/images/multimedia_stick_game_play_controller-512.png" alt="Controller Icon" width="40" style="margin-bottom: -10px;" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# `React com JavaScript`
+# `Redux Toolkit`
+ControLovers oferece mais do que joysticks dos consoles mais atuais do mercado, são joysticks personalizados com seus desenhos, séries e jogos favoritos. Pois acreditamos que todo grande jogador(a) começa com qual controle utiliza para jogar🎮!!! 
+<br>
+<br>
+<div align="center">
+<img src="https://icon-library.com/images/multimedia_stick_game_play_controller-512.png" width="250"/>
+<br>
+<img src="https://i.pinimg.com/originals/fb/76/5b/fb765b8752d50de50cfa15203f9a7acd.png" width="120"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/1024px-Xbox_one_logo.svg.png" width="100"/> 
+<div/>
+<br>
+<br>
+<div align="center">
+<strong>Lhe proporcionamos um e-commerce com um ótimo visual e com diversas opções de controles belíssimos para seus consoles tanto de Playstation quanto Xbox:<strong/>
+<div/>
+<br>
+<br>
+<span style="color: yellow;">Link para acesso do E-commerce:</span><br>  
+<hr>
+<br>
+<br>
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+![image](https://user-images.githubusercontent.com/106918230/227738281-873a8c2c-02fe-4331-a1af-464ef0f6a1b8.png)
+<br>
+![image](https://user-images.githubusercontent.com/106918230/227738510-e979a109-90fe-4a9b-85e0-934a5c2e843b.png)
+<br>
+![image](https://user-images.githubusercontent.com/106918230/227738363-ba9e0e2f-b254-4a1c-b663-1dc6a82b2b36.png)
+<br>
+![image](https://user-images.githubusercontent.com/106918230/227738553-b3097862-63ac-4990-bf99-e7ed0166be3e.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
