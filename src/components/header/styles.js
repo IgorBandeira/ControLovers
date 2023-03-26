@@ -45,4 +45,10 @@ export const Dropdown = styled.div`
   ul li:before {
     content: "🎮";
   }
+
+  @media (max-width: 768px) {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+  }
 `;
