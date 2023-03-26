@@ -19,12 +19,6 @@
   font-size: 24px;
 }
 
-@media (max-width: 768px) {
-  .footer {
-    width: 100%;
-  }
-}
-
 .footer-social {
   display: flex;
   justify-content: center;
@@ -39,4 +33,17 @@
 .year {
   font-size: 14px;
   margin-left: 5px;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    width: 100%;
+    font-size: 15px;
+  }
+  .footer-social a {
+    font-size: 20px;
+  }
+  .year {
+    font-size: 8px;
+  }
 }

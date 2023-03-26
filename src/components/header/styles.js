@@ -52,7 +52,7 @@ export const Dropdown = styled.div`
   @media (max-width: 768px) {
     display: flex;
     flex-direction: column;
-    margin-left: 15%;
-    font-size: 15px;
+    margin-left: 10%;
+    font-size: 10px;
   }
 `;
