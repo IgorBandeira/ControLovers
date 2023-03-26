@@ -16,6 +16,9 @@ export const Container = styled.div`
 export const Logo = styled.div`
   font-size: 1.5rem;
   font-weight: bold;
+  @media (max-width: 768px) {
+    font-size: 1.25rem;
+  }
 `;
 
 export const Buttons = styled.div`
@@ -50,5 +53,6 @@ export const Dropdown = styled.div`
     display: flex;
     flex-direction: column;
     margin-left: 15%;
+    font-size: 15px;
   }
 `;

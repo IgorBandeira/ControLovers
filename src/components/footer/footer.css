@@ -19,6 +19,12 @@
   font-size: 24px;
 }
 
+@media (max-width: 768px) {
+  .footer {
+    width: 100%;
+  }
+}
+
 .footer-social {
   display: flex;
   justify-content: center;
