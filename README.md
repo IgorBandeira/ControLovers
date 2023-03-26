@@ -17,7 +17,7 @@ ControLovers oferece mais do que joysticks dos consoles mais atuais do mercado, 
 <div/>
 <br>
 <br>
-<span style="color: yellow;">Link para acesso do E-commerce:</span><br>  
+<span style="color: yellow;">Link para acesso do E-commerce: https://controlovers.netlify.app/</span><br>  
 <hr>
 <br>
 <br>
