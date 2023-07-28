@@ -187,7 +187,7 @@ const products = [
     price: 450,
     category: "Playstation",
     imageUrl:
-      "https://www.dashcontroles.com.br/wp-content/uploads/2020/11/CyberPunk.png",
+      "https://forums.cdprojektred.com/index.php?attachments/controller-jpg.11035931/",
   },
   {
     id: "nemesis",
