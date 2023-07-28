@@ -16,6 +16,9 @@ export const Container = styled.div`
 export const Logo = styled.div`
   font-size: 1.5rem;
   font-weight: bold;
+  @media (max-width: 768px) {
+    font-size: 1.25rem;
+  }
 `;
 
 export const Buttons = styled.div`
@@ -44,5 +47,12 @@ export const Dropdown = styled.div`
   }
   ul li:before {
     content: "🎮";
+  }
+
+  @media (max-width: 768px) {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    font-size: 10px;
   }
 `;
