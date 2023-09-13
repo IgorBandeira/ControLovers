@@ -6,7 +6,7 @@ export const ProductContainer = styled.div`
   margin-top: 40%;
   margin-bottom: 10%;
 
-  @media (max-width: 768px) {
+  @media (max-width: 1268px) {
     width: 90%;
   }
 `;
@@ -63,7 +63,7 @@ export const ProductImage = styled.div`
     }
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 1268px) {
     width: 100%;
   }
 `;

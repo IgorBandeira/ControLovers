@@ -16,7 +16,7 @@ export const Container = styled.div`
 export const Logo = styled.div`
   font-size: 1.5rem;
   font-weight: bold;
-  @media (max-width: 768px) {
+  @media (max-width: 1268px) {
     font-size: 1.25rem;
   }
 `;
@@ -49,7 +49,7 @@ export const Dropdown = styled.div`
     content: "🎮";
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 1268px) {
     display: flex;
     flex-direction: column;
     margin-left: 10%;

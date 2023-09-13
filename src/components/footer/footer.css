@@ -35,7 +35,7 @@
   margin-left: 5px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1268px) {
   .footer {
     width: 100%;
     font-size: 15px;

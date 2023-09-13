@@ -36,7 +36,7 @@ export const CartContent = styled.div`
   padding: 20px;
   overflow-y: scroll;
 
-  @media (max-width: 768px) {
+  @media (max-width: 1268px) {
     min-width: 85%;
   }
 `;

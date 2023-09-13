@@ -107,7 +107,7 @@ const products = [
     price: 750,
     category: "Playstation",
     imageUrl:
-      "https://yesgame.com.br/wp-content/uploads/2022/07/Controle-Ps5-Competitivo-God-Of-War-Ragnarok-Sky-front.png",
+      "https://down-br.img.susercontent.com/file/7e67daff44355a75d08f41f7daba2020",
   },
   {
     id: "punisher",
