@@ -64,10 +64,10 @@ const products = [
   },
   {
     id: "callofduty",
-    name: "Call of Duty - Vanguard",
+    name: "Call of Duty",
     category: "Xbox",
     price: 530,
-    imageUrl: "https://i.ebayimg.com/images/g/2pQAAOSwwBdhu5x0/s-l400.png",
+    imageUrl: "https://i.zst.com.br/thumbs/12/2a/2c/127480899.jpg",
   },
   {
     id: "thelastofus",
