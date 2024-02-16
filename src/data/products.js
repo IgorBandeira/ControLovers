@@ -37,7 +37,7 @@ const products = [
     name: "Rick and Morty",
     category: "Xbox",
     imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2022/04/controle-xbox-series-ricky-and-morty-colorido-700x700.jpg.webp",
+      "https://cdn.awsli.com.br/800x800/1664/1664415/produto/77611694/xbox-series-s-x-controle-skin-rick-and-morty-aea8181c.jpg",
   },
   {
     price: 690,
@@ -45,7 +45,7 @@ const products = [
     id: "deadpool",
     category: "Playstation",
     imageUrl:
-      "https://yesgame.com.br/wp-content/uploads/2022/12/controle-ps5-dead-pool-700x700.png",
+      "https://images-americanas.b2w.io/produtos/4726663444/imagens/controle-personalizado-deadpool-sony-ps5/4726663444_1_large.jpg",
   },
   {
     price: 400,
@@ -67,8 +67,7 @@ const products = [
     name: "Call of Duty - Vanguard",
     category: "Xbox",
     price: 530,
-    imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2022/01/controle-yesgame-xbox-series-vanguard.png.webp",
+    imageUrl: "https://i.ebayimg.com/images/g/2pQAAOSwwBdhu5x0/s-l400.png",
   },
   {
     id: "thelastofus",
@@ -84,7 +83,7 @@ const products = [
     price: 500,
     category: "Xbox",
     imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2023/01/controle-xbox-overwatch-700x700.png.webp",
+      "https://images-americanas.b2w.io/produtos/4430865961/imagens/skin-xbox-one-slim-x-controle-adesivo-overwatch/4430865961_1_large.jpg",
   },
   {
     id: "sekiro",
@@ -123,7 +122,7 @@ const products = [
     price: 845,
     category: "Playstation",
     imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2023/01/controle-ps5-batman-red.png.webp",
+      "https://lazamodz.com/cdn/shop/products/DSC01042.jpg?v=1650753954",
   },
   {
     id: "dragonball",
@@ -139,7 +138,7 @@ const products = [
     price: 787,
     category: "Playstation",
     imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2022/12/controle-ps5-assassins-creeds-700x700.png.webp",
+      "https://www.luxskinsofficial.com/cdn/shop/products/LUXPS50122_3_dd2cc5f6-48bf-47f6-bc7a-9f3a3340cc6f_1445x.jpg?v=1658916294",
   },
   {
     id: "rainbowsix",
@@ -147,7 +146,7 @@ const products = [
     price: 375,
     category: "Xbox",
     imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2022/01/controle-yesgame-xbox-series-R6.png.webp",
+      "https://cdn.awsli.com.br/300x300/1664/1664415/produto/125118702/skin-xbox-one-fat-controle-tom-clancys-rainbow-six-siege-extraction-ade74f10.jpg",
   },
   {
     id: "spiderman",
@@ -155,7 +154,7 @@ const products = [
     price: 800,
     category: "Playstation",
     imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2022/07/controle-yesgame-ps5-spiderman-F-700x700.png.webp",
+      "https://images.tcdn.com.br/img/img_prod/1087887/controle_sony_dualsense_personalizado_spider_man_miles_morales_ps5_2624_1_5f21a1c9e69ad574aa645ac89f876d22.jpg",
   },
   {
     id: "eldenring",
@@ -163,7 +162,7 @@ const products = [
     price: 700,
     category: "Xbox",
     imageUrl:
-      "https://yesgame.com.br/wp-content/uploads/2022/08/controle-xbox-elden-ring-F-700x700.jpg",
+      "https://images-americanas.b2w.io/produtos/6499513832/imagens/controle-yesgame-xbox-series-alta-performance-elden-ring-dark/6499513841_1_large.jpg",
   },
   {
     id: "gothamknights",
@@ -179,7 +178,7 @@ const products = [
     price: 430,
     category: "Xbox",
     imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2023/01/controle-xbox-callisto-protocol.png.webp",
+      "https://loja.ctmd.eng.br/99116-thickbox/controle-xbox-one-series-blueooth-c-usb-c-paddles.jpg",
   },
   {
     id: "cyberpunk",
@@ -203,7 +202,7 @@ const products = [
     price: 375,
     category: "Playstation",
     imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2022/01/controle-yesgame-ps5-Battlefield-2042.png.webp",
+      "https://down-br.img.susercontent.com/file/bf3488a29ce791b957e3545b1af5fa06",
   },
   {
     id: "harrypotter",
@@ -219,7 +218,7 @@ const products = [
     price: 400,
     category: "Playstation",
     imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2022/04/controle-ps5-horizon-amarelo.png.webp",
+      "https://a-static.mlcdn.com.br/450x450/adesivo-compativel-ps5-controle-playstation-5-skin-horizon-forbidden-west-pop-arte-skins/poparteskins2/15600820857/1c799465e0d5d44dc9fde388301e7ad2.jpg",
   },
   {
     id: "pokemon",
@@ -230,12 +229,12 @@ const products = [
       "https://stelfcontroles.com.br/wp-content/uploads/0b34f3d1-9dc6-4968-bb80-39a464c38e0f.jpg",
   },
   {
-    id: "dyinglight",
-    name: "Dying Light 2",
+    id: "mortalkombat",
+    name: "Mortal Kombat 11",
     price: 340,
     category: "Playstation",
     imageUrl:
-      "https://yesgame.com.br/wp-content/webp-express/webp-images/uploads/2022/04/controle-ps5-dyng-ligth2-700x700.png.webp",
+      "https://cdn.awsli.com.br/600x700/1610/1610163/produto/89680242/skin-ps5-controle-mortal-kombat-11-c176d69c.jpg",
   },
   {
     id: "streetfighter",
