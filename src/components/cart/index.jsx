@@ -21,7 +21,12 @@ const Cart = ({ isVisible, setIsVisible }) => {
         {products.map((product) => (
           <CartItem product={product} />
         ))}
-        <Styles.CartTotal>R$ {productsTotalPrice + ",00"}</Styles.CartTotal>
+        <Styles.CartTotal>
+          {Intl.NumberFormat("pt-BR", {
+            currency: "BRL",
+            style: "currency",
+          }).format(Number(productsTotalPrice))}
+        </Styles.CartTotal>
       </Styles.CartContent>
     </Styles.CartContainer>
   );
