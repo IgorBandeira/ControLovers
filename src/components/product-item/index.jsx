@@ -25,7 +25,12 @@ const ProductItem = ({ product }) => {
 
       <Styles.ProductInfo>
         <p>{product.name}</p>
-        <p>R${product.price + ",00"}</p>
+        <p>
+          {Intl.NumberFormat("pt-BR", {
+            currency: "BRL",
+            style: "currency",
+          }).format(Number(productsTotalPrice))}
+        </p>
       </Styles.ProductInfo>
     </Styles.ProductContainer>
   );
