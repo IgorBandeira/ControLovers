@@ -1,16 +1,14 @@
 import React from "react";
-
 import { BsCartPlus } from "react-icons/bs";
 import { useDispatch } from "react-redux";
 
 import { addProduct } from "../../redux/cart/slice";
-
 import CustomButton from "../custom-button/index";
-
 import * as Styles from "./styles";
 
 const ProductItem = ({ product }) => {
   const dispatch = useDispatch();
+
   const handleProductClick = () => {
     dispatch(addProduct(product));
   };
@@ -29,7 +27,7 @@ const ProductItem = ({ product }) => {
           {Intl.NumberFormat("pt-BR", {
             currency: "BRL",
             style: "currency",
-          }).format(Number(productsTotalPrice))}
+          }).format(Number(product.price))}
         </p>
       </Styles.ProductInfo>
     </Styles.ProductContainer>
