@@ -1,5 +1,4 @@
 import React from "react";
-
 import { AiOutlinePlus, AiOutlineMinus, AiOutlineClose } from "react-icons/ai";
 import { useDispatch } from "react-redux";
 import {
@@ -36,7 +35,7 @@ const CartItem = ({ product }) => {
           {Intl.NumberFormat("pt-BR", {
             currency: "BRL",
             style: "currency",
-          }).format(Number(productsTotalPrice))}
+          }).format(product.price * product.quantity)}
         </p>
 
         <Styles.CartItemQuantity>
