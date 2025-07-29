@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   position: fixed;
+  cursor: pointer;
   width: 100%;
   background: linear-gradient(90deg, rgb(0, 147, 192) 0%, rgb(20, 29, 80) 100%);
   display: flex;

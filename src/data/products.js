@@ -4,8 +4,7 @@ const products = [
     price: 575.6,
     name: "Minecraft",
     category: "Xbox",
-    imageUrl:
-      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTK_ViW7W1J2zZpeJY3DIQ28JU5cpkZmy5P2dqj2GUEUELWHcEMhwVQcuYXuQ1CMlX2sBFvY2KP2UAERB7zHgPySfuwud6kz3Qf5YT12m8ZYNzBw58cBl8C&usqp=CAE",
+    imageUrl: "https://m.media-amazon.com/images/I/713LOZ9HAQL.jpg",
   },
   {
     id: "demonslayer",
@@ -98,7 +97,8 @@ const products = [
     name: "Naruto",
     price: 399.99,
     category: "Xbox",
-    imageUrl: "https://stelfcontroles.com.br/wp-content/uploads/MG_8286.jpg",
+    imageUrl:
+      "https://www.animetowncreations.com/cdn/shop/products/ATWXSX0020_2.jpg?v=1627296329&width=1946",
   },
   {
     id: "godofwar",
@@ -114,7 +114,7 @@ const products = [
     price: 390.9,
     category: "Xbox",
     imageUrl:
-      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3D-LeF1GOEITZ8-8MjLbrLMxKzltdLL8rMJ6Oj8IHlRfOexE7YHIo41E9CW3Eo4JgMpX0ReoRma8Put_QvsbJfQ_AYmrNbZ3ZkRGk5kEP417sGGvXaF_9vg&usqp=CAE",
+      "https://cdn.awsli.com.br/600x700/1610/1610163/produto/77603855/xbox-series-controle-skin-the-punisher-justiceiro-f5152a3d.jpg",
   },
   {
     id: "batman",
@@ -138,7 +138,7 @@ const products = [
     price: 787.9,
     category: "Playstation",
     imageUrl:
-      "https://www.luxskinsofficial.com/cdn/shop/products/LUXPS50122_3_dd2cc5f6-48bf-47f6-bc7a-9f3a3340cc6f_1445x.jpg?v=1658916294",
+      "https://cdn.awsli.com.br/600x700/1610/1610163/produto/89680254/skin-ps5-controle-assassins-creed-valhalla-d0447774.jpg",
   },
   {
     id: "rainbowsix",
@@ -194,7 +194,7 @@ const products = [
     price: 390.85,
     category: "Xbox",
     imageUrl:
-      "https://stelfcontroles.com.br/wp-content/uploads/fb0ed335-08ae-43b8-81dd-26fc962659de.jpg",
+      "https://cdn.awsli.com.br/600x700/1610/1610163/produto/77603849/xbox-series-controle-skin-pickle-rick-and-morty-810dc8eb.jpg",
   },
   {
     id: "battle",
@@ -209,8 +209,7 @@ const products = [
     name: "Harry Potter",
     price: 349.99,
     category: "Xbox",
-    imageUrl:
-      "https://stelfcontroles.com.br/wp-content/uploads/f0b75e0b-56b7-4af5-855b-ac856e71e3fb.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/711itDNNeAL.jpg",
   },
   {
     id: "horizon",
@@ -226,7 +225,7 @@ const products = [
     price: 310.9,
     category: "Xbox",
     imageUrl:
-      "https://stelfcontroles.com.br/wp-content/uploads/0b34f3d1-9dc6-4968-bb80-39a464c38e0f.jpg",
+      "https://cdn.awsli.com.br/2500x2500/1610/1610163/produto/151003960/xbox-series-s-x-controle-skin-pokemon-pikachu-50ac5590.jpg",
   },
   {
     id: "mortalkombat",
