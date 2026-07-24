@@ -5,6 +5,7 @@ import { useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import Cart from "../cart/index";
 import * as Styles from "./styles";
+import gamePad from "../../assets/icons/game-pad.png";
 import { loginUser, logoutUser } from "../../redux/user/action";
 import { selectProductsCount } from "../../redux/cart/cart.selector";
 
@@ -48,7 +49,7 @@ function Header() {
           💛
         </span>
         <img
-          src="https://icon-library.com/images/multimedia_stick_game_play_controller-512.png"
+          src={gamePad}
           alt="control"
           style={{ height: 35, marginBottom: -10 }}
         />
